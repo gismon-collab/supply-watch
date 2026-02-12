@@ -1,2 +1,2 @@
-# supply-watch
-Supply-Watch is a Rust-based monitoring tool designed to track supply chain inventory levels
+# Grocery Automation
+Grocery Automation is a Rust-based monitoring tool designed to track supply chain inventory levels
